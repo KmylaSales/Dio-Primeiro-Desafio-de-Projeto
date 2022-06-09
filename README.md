@@ -2,4 +2,4 @@
 
 ##Projeto sobre Git/GitHub
 
-#Criado este rojeto para armazenar os exercícios desse bootcamp!
+#Criado este projeto para armazenar os exercícios desse bootcamp!
